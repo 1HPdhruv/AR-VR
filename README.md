@@ -18,7 +18,7 @@
 
 ---
 
-## 📸 What I Had Build
+##  What I Had Build
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/674727/25377018/27be9cce-295b-11e7-9098-3e85ac1fe172.gif" alt="A-Frame Inspector Demo" width="70%">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Quick Start (2 Minutes)
+##  Quick Start (2 Minutes)
 
 ### The Simplest Starter Example
 
